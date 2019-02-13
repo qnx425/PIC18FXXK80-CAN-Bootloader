@@ -1,0 +1,23 @@
+[TxList]
+Message0Id=451
+Message0DLC=8
+Message0Data=00 00 00 00 00 00 00 00
+Message0Period=1500
+Message0Comment=
+Message0Mode=1500
+Message0TriggerId=
+Message1Id=450
+Message1DLC=8
+Message1Data=01 4B D5 62 9E 00 00 00
+Message1Period=500
+Message1Comment=
+Message1Mode=off
+Message1TriggerId=
+Message2Id=450
+Message2DLC=8
+Message2Data=02 00 00 00 00 00 00 00
+Message2Period=500
+Message2Comment=
+Message2Mode=500
+Message2TriggerId=
+Message3Id=-1
